@@ -1,5 +1,5 @@
 # Snek
-Very simple game made in C using SDL library. All assets such as font and pictures are not mine and were only used for personal purposes.
+Very simple game made in C using SDL library. All assets such as font and pictures are not mine and were only used for personal purposes. I would like to thank my university teacher for providing me suitable template with working SDL library.
 
 In-game screenshot:
 
