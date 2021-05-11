@@ -1,4 +1,4 @@
-# Snake
+# Snek
 Very simple game made in C using SDL library. All assests such as font and pictures are not mine and were only used for personal purposes.
 
 In-game screenshot:
